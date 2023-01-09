@@ -1,0 +1,15 @@
+export const Colors = {
+  green: '#1ad399',
+  white: '#fff',
+  black: '#000',
+  red: '#e74033',
+  StatasBar: '#00a060',
+  BG_W: '#DFF6FF',
+  bg_B: '#06283D',
+  Card_bg: '#EFFFFD',
+  Font_C: '#2C3639',
+  Grey: '#413F42',
+  Box_bg: '#F9F9F9',
+  Grey_2: '#7F8487',
+  green_2: '#064420',
+};

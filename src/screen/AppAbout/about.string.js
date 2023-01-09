@@ -1,0 +1,61 @@
+export const aboutString = [
+  {
+    Title: 'About Student Tool App ',
+    text: "Student Tools  is the suitable app to get any education exam result, great calculation, All Admission,  educational all notice  in Bangladesh. It's a great application who really loves to see their Bangladeshi  In this app.  we are include all fetuses in  one app",
+
+    catagory: {
+      ResultTitle: 'Category of Results',
+      ResultsCatagory: [
+        '☑ PSC Result ',
+        '☑ JSC Result ',
+        '☑ JDC Result ',
+        '☑ SSC Result ',
+        '☑ DHAKIL Result ',
+        '☑ HSC Result ',
+        '☑ Alim Result ',
+        '☑ এসএসসি ভোকেশনাল রেজাল্ট',
+        '☑ এইচএসসি ভোকেশনাল রেজাল্ট',
+        '☑ কারিগরি ডিপ্লোমা রেজাল্ট',
+        '☑ ডিগ্রী রেজাল্ট',
+        '☑ অনার্স রেজাল্ট',
+        '☑ মাষ্টার্স রেজাল্ট',
+        '☑ ডিগ্রী ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ অনার্স ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ মাষ্টার্স ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ উন্মুক্ত বিশ্ববিদ্যালয় পরীক্ষার রেজাল্ট',
+        '☑ একাদশ শ্রেণীতে ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ পলিটেকনিক ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ এমবিবিএস ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ বিডিএস ভর্তি পরীক্ষার রেজাল্ট',
+        '☑ বিসিপিএস পরীক্ষার রেজাল্ট',
+        '☑ শিক্ষক নিবন্ধন পরীক্ষার রেজাল্ট',
+        '☑ অন্যান্য পরীক্ষার রেজাল্ট ',
+      ],
+
+      GradeTitle: 'Category of Grade',
+      GraeCatagory: ['☑ National University '],
+
+      NoticeTitle: 'Category of Notice',
+      NoticeCatagory: [
+        '☑ PSC Notice ',
+        '☑ DSHE Notice ',
+        '☑ DSHE Notice ',
+        '☑ BTEB Notice ',
+        '☑ NU Notice ',
+        '☑ BOU Notice ',
+        '☑ DGHS Notice ',
+        '☑ NTRCA Notice ',
+        '☑ BCPS Notice ',
+        '☑ BMC Notice ',
+      ],
+
+      AdmissionTitle: 'Category of Admission',
+      AdmissionCatagory: [
+        '☑ JSC Admission ',
+        '☑ JDC Admission ',
+        '☑ SSC Admission ',
+        '☑ NU Admission ',
+      ],
+    },
+  },
+];
